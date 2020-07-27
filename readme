@@ -1,0 +1,5 @@
+1) the code is based on cv2, pytorch, pydensecrf, numpy, json
+2) In order to create the images pairs of training, the file of json is generated
+3) In order to create the images pairs of validation, the dir of  "sbd" is created, and it includes three parts: 1.the dir of images: "img" 2. the dir of the ground truth: "cls" 3) the "val.txt"
+
+If you have any question, please contact "ywyang@std.uestc.edu.cn"
