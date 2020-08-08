@@ -8,4 +8,6 @@ Few-shot segmentation segments object regions of new classes with a few of manua
 2) In order to create the images pairs of training, the file of json is generated
 3) In order to create the images pairs of validation, the dir of  "sbd" is created, and it includes three parts: 
   1.the dir of images: "img" 2. the dir of the ground truth: "cls" 3. the "val.txt"
-
+## The Proposed Network
+Different to the existing methods that global features are used to realize the guided segmentation, the local features are considered in this paper, which can transfer the local and structual cues contained in supported mask.
+1[network]()
