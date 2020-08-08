@@ -1,3 +1,4 @@
+#Readme
 This program is the implementation of the paper "A New Local Transformation Module for Few-shot Segmentation"
 1) the code is based on cv2, pytorch, pydensecrf, numpy, json
 2) In order to create the images pairs of training, the file of json is generated
