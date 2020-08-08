@@ -10,6 +10,7 @@ Few-shot segmentation segments object regions of new classes with a few of manua
   1.the dir of images: "img" 2. the dir of the ground truth: "cls" 3. the "val.txt"
 ## The Proposed Network
 Different to the existing methods that global features are used to realize the guided segmentation, the local features are considered in this paper, which can transfer the local and structual cues contained in supported mask.
+> Network
 ![network](https://github.com/a-tree-one/local-transformer/blob/master/network.png)
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+
 
