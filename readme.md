@@ -11,6 +11,6 @@ Few-shot segmentation segments object regions of new classes with a few of manua
 ## The Proposed Network
 Different to the existing methods that global features are used to realize the guided segmentation, the local features are considered in this paper, which can transfer the local and structual cues contained in supported mask.
 > Network
-![network](https://github.com/a-tree-one/local-transformer/blob/master/network.png)
+![image](https://github.com/a-tree-one/local-transformer/blob/master/network.png)
 
 
